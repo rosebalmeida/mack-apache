@@ -1,4 +1,4 @@
-ROM ubuntu:jammy
+FROM ubuntu:jammy
 
 ENV DEBIAN_FRONTEND=nointeractive
 
